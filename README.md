@@ -42,13 +42,12 @@ LOAD REGULATION CHARACTERISTICS:
 <img width="1046" height="390" alt="image" src="https://github.com/user-attachments/assets/638ec11d-3dab-4eaa-8229-0237d30cfe0c" />
 <img width="513" height="810" alt="image" src="https://github.com/user-attachments/assets/bb986e2b-4a15-4192-899c-5b2eb60c58bf" />
 
-
-
 PRECAUTIONS:
 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
+
 RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
