@@ -31,6 +31,7 @@ PROCEDURE:
 <img width="624" height="808" alt="image" src="https://github.com/user-attachments/assets/fa84d6db-fc92-4895-a9eb-d23351e5e1f1" />
 
 OBSERVATIONS:
+
 <img width="607" height="831" alt="image" src="https://github.com/user-attachments/assets/532f202d-0060-42b0-8ecd-2ec99f2e1dfc" />
 
 LINE REGULATION CHARACTERISTICS:
